@@ -22,7 +22,7 @@
         },
         {
             "Id":5,
-            "Descripcion" : "Memoria Ram",
+            "Descripcion" : "Memoria RAM",
             "Precio" : "35.00"
         },
         {
@@ -35,12 +35,13 @@
             "Descripcion" : "WebCam",
             "Precio" : "57.00"
         },
-
         {
-            "id":8,
+            "Id":8,
             "Descripcion" :"USB",
-            "Precio": "5.00"
+            "Precio": "25.00"
         }
+    ]
+}
         
         
     ]
