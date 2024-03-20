@@ -1,0 +1,44 @@
+{
+    "producto":[
+        {
+            "Id":1,
+            "Descripcion" : "Mouse",
+            "Precio" : "30.00"
+        },
+        {
+            "Id":2,
+            "Descripcion" : "Mouse",
+            "Precio" : "30.00"
+        },
+        {
+            "Id":3,
+            "Descripcion" : "Pantalla",
+            "Precio" : "40.00"
+        },
+        {
+            "Id":4,
+            "Descripcion" : "Teclado",
+            "Precio" : "30.00"
+        },
+        {
+            "Id":5,
+            "Descripcion" : "Memoria RAM",
+            "Precio" : "35.00"
+        },
+        {
+            "Id":6, 
+            "Descripcion" : "Cable",
+            "Precio" : "25.00"
+        },
+        {
+            "Id":7,
+            "Descripcion" : "WebCam",
+            "Precio" : "57.00"
+        },
+        {
+            "Id":8,
+            "Descripcion" :"USB",
+            "Precio": "5.00"
+        }        
+    ]
+}
