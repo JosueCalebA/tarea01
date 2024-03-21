@@ -24,21 +24,6 @@
             "Id":5,
             "Descripcion" : "Memoria RAM",
             "Precio" : "35.00"
-        },
-        {
-            "Id":6, 
-            "Descripcion" : "Cable",
-            "Precio" : "25.00"
-        },
-        {
-            "Id":7,
-            "Descripcion" : "WebCam",
-            "Precio" : "57.00"
-        },
-        {
-            "Id":8,
-            "Descripcion" :"USB",
-            "Precio": "5.00"
         }        
     ]
 }
